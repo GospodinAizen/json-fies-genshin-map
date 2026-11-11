@@ -1,0 +1,34 @@
+{
+  "info": {
+    "id": 36,
+    "name": "Древняя Священная гора",
+    "parent_id": 1,
+    "depth": 2,
+    "detail": "",
+    "node_type": 2,
+    "children": [],
+    "icon": "https://act-webstatic.hoyoverse.com/map_manage/20250321/0fd1e45e9d1aa172e4d0a4f306fa66b5_4940540135070826048.png",
+    "ch_ext": "",
+    "detail_v2": {
+      "total_size": [
+        4096,
+        4096
+      ],
+      "padding": [
+        0,
+        0
+      ],
+      "origin": [
+        2200,
+        1823
+      ],
+      "map_version": "bb19ccbed47e8d9dca730050219d0b90",
+      "min_zoom": -4,
+      "max_zoom": 0,
+      "original_map_size": [
+        4095,
+        4095
+      ]
+    }
+  }
+}

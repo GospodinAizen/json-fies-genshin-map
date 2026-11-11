@@ -1,0 +1,4590 @@
+{
+  "avatar": {
+    "list": [
+      {
+        "item_id": 10000136,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6aea6776/a024f93489bf998b23dd8a41746bbc17.png",
+        "attr": 5,
+        "level": 5,
+        "labels": [
+          845,
+          878,
+          876
+        ],
+        "name": "Митя"
+      },
+      {
+        "item_id": 10000137,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6aea6776/2cd496faf46d4727430723b840e61881.png",
+        "attr": 5,
+        "level": 4,
+        "labels": [
+          844,
+          222,
+          875
+        ],
+        "name": "Валерий"
+      },
+      {
+        "item_id": 10000089,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0a024f0f2e06e99d67f112cd12eef4af.png",
+        "attr": 6,
+        "level": 5,
+        "labels": [
+          548,
+          47,
+          553
+        ],
+        "name": "Фурина"
+      },
+      {
+        "item_id": 10000112,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/681a947b/6c4f7f722b0226a1171ec265485de61c.png",
+        "attr": 7,
+        "level": 5,
+        "labels": [
+          500,
+          494,
+          687
+        ],
+        "name": "Эскофье"
+      },
+      {
+        "item_id": 10000114,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6851f37b/b3007bcbb99dd9b47af558ecc1bb65ff.png",
+        "attr": 7,
+        "level": 5,
+        "labels": [
+          673,
+          494,
+          629
+        ],
+        "name": "Скирк"
+      },
+      {
+        "item_id": 10000143,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6ab31686/88e4654b892a5ada8d0fd21301c07518.png",
+        "attr": 2,
+        "level": 5,
+        "labels": [
+          849,
+          823,
+          844
+        ],
+        "name": "Весна"
+      },
+      {
+        "item_id": 10000140,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6ab31686/750126424226dddd1dbe8a75db5cbad1.png",
+        "attr": 6,
+        "level": 5,
+        "labels": [
+          847,
+          345,
+          845
+        ],
+        "name": "Водяница"
+      },
+      {
+        "item_id": 10000120,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/6aae9f16cbe14ac60dd6eb2956e4acf2.png",
+        "attr": 5,
+        "level": 5,
+        "labels": [
+          700,
+          738,
+          743
+        ],
+        "name": "Флинс"
+      },
+      {
+        "item_id": 10000116,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6889608b/f1723762f28902659f73902bbbda1fd6.png",
+        "attr": 5,
+        "level": 5,
+        "labels": [
+          656,
+          606,
+          687
+        ],
+        "name": "Инеффа"
+      },
+      {
+        "item_id": 10000150,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a7ba976/38c83cb1b5c605921b3d773d9e5dffc2.png",
+        "attr": 7,
+        "level": 5,
+        "labels": [
+          844,
+          345,
+          847
+        ],
+        "name": "Одетта"
+      },
+      {
+        "item_id": 10000148,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a7ba976/faa96b61235674d245e3134c4175f684.png",
+        "attr": 5,
+        "level": 4,
+        "labels": [
+          845,
+          222,
+          848
+        ],
+        "name": "Алёша"
+      },
+      {
+        "item_id": 10000096,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/1b277d9a90936da66f13918e3c9b828c.png",
+        "attr": 1,
+        "level": 5,
+        "labels": [
+          503,
+          54,
+          25,
+          26,
+          586
+        ],
+        "name": "Арлекино"
+      },
+      {
+        "item_id": 10000125,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6966dc8c/3e648c232fb84bea351096c3f2129489.png",
+        "attr": 6,
+        "level": 5,
+        "labels": [
+          770,
+          59,
+          762
+        ],
+        "name": "Коломбина"
+      },
+      {
+        "item_id": 10000052,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/23aa979c8e86b7006a62039b9dd81c5b.png",
+        "attr": 5,
+        "level": 5,
+        "labels": [
+          228,
+          209,
+          263
+        ],
+        "name": "Райдэн"
+      },
+      {
+        "item_id": 10000133,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a44588e/417922ce01627959571b3355b9f462ac.png",
+        "attr": 7,
+        "level": 5,
+        "labels": [
+          738,
+          810,
+          546
+        ],
+        "name": "Сандроне"
+      },
+      {
+        "item_id": 10000107,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/abe2da348abe64c67d9c2763d2d8c4e7.png",
+        "attr": 7,
+        "level": 5,
+        "labels": [
+          614,
+          603,
+          660
+        ],
+        "name": "Ситлали"
+      },
+      {
+        "item_id": 10000129,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a0cf98d/e3c37d250fc8af7e63992f6bd50a3ee7.png",
+        "attr": 7,
+        "level": 5,
+        "labels": [
+          813,
+          788,
+          56
+        ],
+        "name": "Лоэн"
+      },
+      {
+        "item_id": 10000106,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c54cf9fe971d6226b78ad795ced9bee8.png",
+        "attr": 1,
+        "level": 5,
+        "labels": [
+          655,
+          606,
+          608
+        ],
+        "name": "Мавуика"
+      },
+      {
+        "item_id": 10000131,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a0cf98d/233e3baf9bd2c030a49b46c31173da9e.png",
+        "attr": 1,
+        "level": 5,
+        "labels": [
+          771,
+          769,
+          739
+        ],
+        "name": "Николь"
+      },
+      {
+        "item_id": 10000123,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6966dc8c/2e43dacd8259a9fc447b3a314a354642.png",
+        "attr": 1,
+        "level": 5,
+        "labels": [
+          700,
+          739,
+          764
+        ],
+        "name": "Дурин"
+      },
+      {
+        "item_id": 10000119,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/4138ef0c4ecfba8f4e69b5ea1631e32d.png",
+        "attr": 4,
+        "level": 5,
+        "labels": [
+          701,
+          739,
+          744
+        ],
+        "name": "Лаума"
+      },
+      {
+        "item_id": 10000122,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68f81e8b/3599d082a372edcd04d8ba377b430180.png",
+        "attr": 4,
+        "level": 5,
+        "labels": [
+          701,
+          739,
+          762
+        ],
+        "name": "Нефер"
+      },
+      {
+        "item_id": 10000099,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/91922ba4b8882f158eb0d26c30ab74d5.png",
+        "attr": 4,
+        "level": 5,
+        "labels": [
+          548,
+          494,
+          586
+        ],
+        "name": "Эмилия"
+      },
+      {
+        "item_id": 10000098,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/67796a8312172b6b2a82d3097452d141.png",
+        "attr": 5,
+        "level": 5,
+        "labels": [
+          545,
+          493,
+          540
+        ],
+        "name": "Клоринда"
+      },
+      {
+        "item_id": 10000095,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/9236f61b549f9dbca318c3a8fd46bcb4.png",
+        "attr": 6,
+        "level": 5,
+        "labels": [
+          501,
+          493,
+          553
+        ],
+        "name": "Сиджвин"
+      },
+      {
+        "item_id": 10000091,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/dd80b2174e316e6a9a4f699dba23d6af.png",
+        "attr": 3,
+        "level": 5,
+        "labels": [
+          549,
+          493,
+          497
+        ],
+        "name": "Навия"
+      },
+      {
+        "item_id": 10000084,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/56d665e0298a876a4393ea385db61da3.png",
+        "attr": 1,
+        "level": 5,
+        "labels": [
+          503,
+          25,
+          26,
+          54,
+          498
+        ],
+        "name": "Лини"
+      },
+      {
+        "item_id": 10000130,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/69d58c7d/d1c44e49e1fcfdf9474ba6c2d2c9369d.png",
+        "attr": 3,
+        "level": 5,
+        "labels": [
+          739,
+          810,
+          813
+        ],
+        "name": "Линнея"
+      },
+      {
+        "item_id": 10000104,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c009627a0c0289646a10d41779001b9d.png",
+        "attr": 2,
+        "level": 5,
+        "labels": [
+          655,
+          603,
+          629
+        ],
+        "name": "Часка"
+      },
+      {
+        "item_id": 10000128,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/699e3449/bd2ad505d700cc342095d8ddd49d0c7b.png",
+        "attr": 2,
+        "level": 5,
+        "labels": [
+          41,
+          738,
+          788
+        ],
+        "name": "Варка"
+      },
+      {
+        "item_id": 10000038,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/699e3449/1ed38170d66966f44b6e48f0f26605b1.png",
+        "attr": 3,
+        "level": 5,
+        "labels": [
+          35,
+          57,
+          138
+        ],
+        "name": "Альбедо"
+      },
+      {
+        "item_id": 10000029,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/54f52fb2be4b82fdbde390db0fce89ea.png",
+        "attr": 1,
+        "level": 5,
+        "labels": [
+          39,
+          57,
+          137
+        ],
+        "name": "Кли"
+      },
+      {
+        "item_id": 10000051,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/4ea05e98ca62e2d3c7de83ea6bcf641b.png",
+        "attr": 7,
+        "level": 5,
+        "labels": [
+          37,
+          53,
+          55,
+          56,
+          57,
+          149,
+          181
+        ],
+        "name": "Эола"
+      },
+      {
+        "item_id": 10000041,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/699e3449/e73c8896a2a5e52cfaa8847daaee53b8.png",
+        "attr": 6,
+        "level": 5,
+        "labels": [
+          39,
+          47,
+          136
+        ],
+        "name": "Мона"
+      },
+      {
+        "item_id": 10000003,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/699e3449/eabf3af20320ed8dc3fed73ab11148cc.png",
+        "attr": 2,
+        "level": 5,
+        "labels": [
+          37,
+          53,
+          55,
+          56,
+          57,
+          149,
+          132
+        ],
+        "name": "Джинн"
+      },
+      {
+        "item_id": 10000016,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/929d6645727e400b3a294b559e36a03f.png",
+        "attr": 1,
+        "level": 5,
+        "labels": [
+          33,
+          25,
+          26,
+          54,
+          137
+        ],
+        "name": "Дилюк"
+      },
+      {
+        "item_id": 10000126,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6966dc8c/b7ea76f3f77eec4997dad6576c183939.png",
+        "attr": 3,
+        "level": 5,
+        "labels": [
+          38,
+          739,
+          769
+        ],
+        "name": "Цзы Бай"
+      },
+      {
+        "item_id": 10000087,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/b30987d539b299dc89004d72274f5e89.png",
+        "attr": 6,
+        "level": 5,
+        "labels": [
+          493,
+          540,
+          545,
+          540
+        ],
+        "name": "Нёвиллет"
+      },
+      {
+        "item_id": 10000022,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/da04983f26f201db1a287bf922cdcaff.png",
+        "attr": 2,
+        "level": 5,
+        "labels": [
+          35,
+          59,
+          132
+        ],
+        "name": "Венти"
+      },
+      {
+        "item_id": 10000132,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a0cf98d/e1a65f12e336519381e38a4068d537d3.png",
+        "attr": 2,
+        "level": 4,
+        "labels": [
+          762,
+          58,
+          770
+        ],
+        "name": "Прюн"
+      },
+      {
+        "item_id": 10000127,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6966dc8c/64666707baedabc3e6a7d80738d24730.png",
+        "attr": 3,
+        "level": 4,
+        "labels": [
+          771,
+          738,
+          764
+        ],
+        "name": "Иллуги"
+      },
+      {
+        "item_id": 10000124,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/692f7d8b/8ce70ee6c41e48a78bdb1a17be8b554e.png",
+        "attr": 2,
+        "level": 4,
+        "labels": [
+          699,
+          744,
+          738
+        ],
+        "name": "Ягода"
+      },
+      {
+        "item_id": 10000043,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/27ee1aba588f3e8e42800249fe1047e8.png",
+        "attr": 2,
+        "level": 4,
+        "labels": [
+          43,
+          47,
+          132
+        ],
+        "name": "Сахароза"
+      },
+      {
+        "item_id": 10000031,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/207a0e35e0637a2bcb0a28fdfa61f7a4.png",
+        "attr": 5,
+        "level": 4,
+        "labels": [
+          33,
+          56,
+          135
+        ],
+        "name": "Фишль"
+      },
+      {
+        "item_id": 10000020,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0a8a2c7373dcc8f2549b645d0c3374b7.png",
+        "attr": 5,
+        "level": 4,
+        "labels": [
+          41,
+          53,
+          55,
+          56,
+          57,
+          149,
+          135
+        ],
+        "name": "Рэйзор"
+      },
+      {
+        "item_id": 10000030,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/9dcda1d9e45a4f9e59266480ee2fc0c8.png",
+        "attr": 3,
+        "level": 5,
+        "labels": [
+          40,
+          59,
+          138
+        ],
+        "name": "Чжун Ли"
+      },
+      {
+        "item_id": 10000060,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/e76d6bdb8f4aeea019df7856ef9eca3f.png",
+        "attr": 6,
+        "level": 5,
+        "labels": [
+          78,
+          25,
+          26,
+          54,
+          352
+        ],
+        "name": "Е Лань"
+      },
+      {
+        "item_id": 10000073,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/823e31bf43f378bd66c394985a323da8.png",
+        "attr": 4,
+        "level": 5,
+        "labels": [
+          401,
+          221,
+          452
+        ],
+        "name": "Нахида"
+      },
+      {
+        "item_id": 10000121,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/cfec735e9e867016be94f500e9dae122.png",
+        "attr": 6,
+        "level": 4,
+        "labels": [
+          699,
+          738,
+          743
+        ],
+        "name": "Айно"
+      },
+      {
+        "item_id": 10000078,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a7eb0a9a0805bdecfaccfd450ca61102.png",
+        "attr": 4,
+        "level": 5,
+        "labels": [
+          462,
+          389,
+          457
+        ],
+        "name": "Аль-Хайтам"
+      },
+      {
+        "item_id": 10000070,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/2cb9c9350cf6ff26b2ff293cce139cab.png",
+        "attr": 6,
+        "level": 5,
+        "labels": [
+          413,
+          221,
+          432
+        ],
+        "name": "Нилу"
+      },
+      {
+        "item_id": 10000075,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/555d1f67bc5ea5ef1dfb39f47287ca11.png",
+        "attr": 2,
+        "level": 5,
+        "labels": [
+          402,
+          209,
+          432
+        ],
+        "name": "Странник"
+      },
+      {
+        "item_id": 10000071,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/8eb1a5cca01c9e988581067a31e8b1d6.png",
+        "attr": 5,
+        "level": 5,
+        "labels": [
+          390,
+          430,
+          57
+        ],
+        "name": "Сайно"
+      },
+      {
+        "item_id": 10000069,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/2747d92218297b5094d4b8fe6d5f6475.png",
+        "attr": 4,
+        "level": 5,
+        "labels": [
+          391,
+          221,
+          400
+        ],
+        "name": "Тигнари"
+      },
+      {
+        "item_id": 10000079,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/e7beb9e36337d7f64139ee0c97d1a93a.png",
+        "attr": 1,
+        "level": 5,
+        "labels": [
+          462,
+          389,
+          433
+        ],
+        "name": "Дэхья"
+      },
+      {
+        "item_id": 10000102,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/1fa9d9e4780785e7ab6c2ac10e556527.png",
+        "attr": 6,
+        "level": 5,
+        "labels": [
+          611,
+          606,
+          609
+        ],
+        "name": "Муалани"
+      },
+      {
+        "item_id": 10000063,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/d7f5dc584b2a9b02b8266084d96ad3cf.png",
+        "attr": 7,
+        "level": 5,
+        "labels": [
+          32,
+          47,
+          333
+        ],
+        "name": "Шэнь Хэ"
+      },
+      {
+        "item_id": 10000115,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6851f37b/9e5b1c5805948358c656e702e5eecae2.png",
+        "attr": 6,
+        "level": 4,
+        "labels": [
+          31,
+          56,
+          687
+        ],
+        "name": "Далия"
+      },
+      {
+        "item_id": 10000101,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/ec67809641b4f1d2d2e87bc0e1e88b93.png",
+        "attr": 4,
+        "level": 5,
+        "labels": [
+          613,
+          603,
+          610
+        ],
+        "name": "Кинич"
+      },
+      {
+        "item_id": 10000113,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/681a947b/0b3127bb721214a48b20001c64ab727a.png",
+        "attr": 2,
+        "level": 4,
+        "labels": [
+          613,
+          603,
+          670
+        ],
+        "name": "Ифа"
+      },
+      {
+        "item_id": 10000103,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7c047dce3a1be70baa30f28111222e38.png",
+        "attr": 3,
+        "level": 5,
+        "labels": [
+          615,
+          606,
+          608
+        ],
+        "name": "Шилонен"
+      },
+      {
+        "item_id": 10000111,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67e3357c/34596fcb08c5c4b4e91379507e75dba7.png",
+        "attr": 5,
+        "level": 5,
+        "labels": [
+          673,
+          603,
+          670
+        ],
+        "name": "Вареса"
+      },
+      {
+        "item_id": 10000110,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67e3357c/f44e8b4c7a61a4abb2aa2ccfe9b810cd.png",
+        "attr": 5,
+        "level": 4,
+        "labels": [
+          674,
+          606,
+          629
+        ],
+        "name": "Иансан"
+      },
+      {
+        "item_id": 10000109,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/1cebf43ac944ad3ff2a0581bebe309d8.png",
+        "attr": 2,
+        "level": 5,
+        "labels": [
+          185,
+          209,
+          660
+        ],
+        "name": "Мидзуки"
+      },
+      {
+        "item_id": 10000108,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/eba829f8ca4b38367c4a2551d0e228ae.png",
+        "attr": 2,
+        "level": 4,
+        "labels": [
+          566,
+          47,
+          608
+        ],
+        "name": "Лань Янь"
+      },
+      {
+        "item_id": 10000105,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/64a90c55b4bb72cf06068f3d82dbc8da.png",
+        "attr": 5,
+        "level": 4,
+        "labels": [
+          656,
+          603,
+          609
+        ],
+        "name": "Оророн"
+      },
+      {
+        "item_id": 10000094,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/2eeb4b86d43acc81c6f9b37bdba03e83.png",
+        "attr": 3,
+        "level": 5,
+        "labels": [
+          198,
+          229,
+          497
+        ],
+        "name": "Тиори"
+      },
+      {
+        "item_id": 10000047,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7d56eb845d4f982757a942a97f88b958.png",
+        "attr": 2,
+        "level": 5,
+        "labels": [
+          185,
+          58,
+          183
+        ],
+        "name": "Кадзуха"
+      },
+      {
+        "item_id": 10000100,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/2c4b6f3e78da44cbe10f9cbc37a50fe1.png",
+        "attr": 3,
+        "level": 4,
+        "labels": [
+          614,
+          606,
+          610
+        ],
+        "name": "Качина"
+      },
+      {
+        "item_id": 10000097,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/62ddf4187c2aea2dda21813b9d90f27f.png",
+        "attr": 5,
+        "level": 4,
+        "labels": [
+          468,
+          389,
+          564
+        ],
+        "name": "Сетос"
+      },
+      {
+        "item_id": 10000032,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/41a97aae8bf579ce350a90bbddc59fdf.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          43,
+          58,
+          137
+        ],
+        "name": "Беннет"
+      },
+      {
+        "item_id": 10000050,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/57ede6ce84e7030b58af29520198119b.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          266,
+          58,
+          203
+        ],
+        "name": "Тома"
+      },
+      {
+        "item_id": 10000082,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/afc87fc731e998f8f0f956f03de1cf21.png",
+        "attr": 4,
+        "level": 5,
+        "labels": [
+          34,
+          221,
+          455
+        ],
+        "name": "Бай Чжу"
+      },
+      {
+        "item_id": 10000057,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/122eddc88eb224d79ae466ca0c615ce7.png",
+        "attr": 3,
+        "level": 5,
+        "labels": [
+          196,
+          59,
+          318
+        ],
+        "name": "Итто"
+      },
+      {
+        "item_id": 10000093,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/20c3618fbc7304c6b716e2733b2d4db3.png",
+        "attr": 2,
+        "level": 5,
+        "labels": [
+          566,
+          57,
+          564
+        ],
+        "name": "Сянь Юнь"
+      },
+      {
+        "item_id": 10000092,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/1238a7679cc90e138ec793b08aa853c7.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          78,
+          59,
+          498
+        ],
+        "name": "Ка Мин"
+      },
+      {
+        "item_id": 10000026,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/6dca29648877d9140b67d5ccc3db662e.png",
+        "attr": 2,
+        "level": 5,
+        "labels": [
+          32,
+          59,
+          157
+        ],
+        "name": "Сяо"
+      },
+      {
+        "item_id": 10000058,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/54f9f46e282f81dc06c45d2783e0206a.png",
+        "attr": 5,
+        "level": 5,
+        "labels": [
+          185,
+          209,
+          333
+        ],
+        "name": "Яэ Мико"
+      },
+      {
+        "item_id": 10000002,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f616e8fdc168d5e5314929a492788e93.png",
+        "attr": 7,
+        "level": 5,
+        "labels": [
+          199,
+          209,
+          204
+        ],
+        "name": "Аяка"
+      },
+      {
+        "item_id": 10000049,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7d324e9ea99247b744b08f7016649d1d.png",
+        "attr": 1,
+        "level": 5,
+        "labels": [
+          197,
+          57,
+          203
+        ],
+        "name": "Ёимия"
+      },
+      {
+        "item_id": 10000090,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/817f1d6da2a3ff6e6bfedeb39104ad71.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          502,
+          494,
+          540
+        ],
+        "name": "Шеврёз"
+      },
+      {
+        "item_id": 10000066,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/e350954e7c5f587e8c1e9fd5931ebac2.png",
+        "attr": 6,
+        "level": 5,
+        "labels": [
+          199,
+          209,
+          262
+        ],
+        "name": "Аято"
+      },
+      {
+        "item_id": 10000088,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f4e68e94225fa95112ae03c0a6d10938.png",
+        "attr": 7,
+        "level": 4,
+        "labels": [
+          500,
+          494,
+          539
+        ],
+        "name": "Шарлотта"
+      },
+      {
+        "item_id": 10000086,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7786cf3f9620456f6d14a226dfdcca67.png",
+        "attr": 7,
+        "level": 5,
+        "labels": [
+          546,
+          494,
+          539
+        ],
+        "name": "Ризли"
+      },
+      {
+        "item_id": 10000033,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/e23dde6e455a2dc62dcebbf2d41f7f72.png",
+        "attr": 6,
+        "level": 5,
+        "labels": [
+          78,
+          25,
+          26,
+          54,
+          136
+        ],
+        "name": "Тарталья"
+      },
+      {
+        "item_id": 10000085,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/34ef1ba51a4893d9df4be717e56891ae.png",
+        "attr": 7,
+        "level": 4,
+        "labels": [
+          501,
+          493,
+          497
+        ],
+        "name": "Фремине"
+      },
+      {
+        "item_id": 10000083,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/5dad272ce992b32d3aa7a708869d1a4a.png",
+        "attr": 2,
+        "level": 4,
+        "labels": [
+          502,
+          494,
+          497
+        ],
+        "name": "Линетт"
+      },
+      {
+        "item_id": 10000054,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/90652aa121930a54372ede5e53b4615e.png",
+        "attr": 6,
+        "level": 5,
+        "labels": [
+          227,
+          229,
+          262
+        ],
+        "name": "Кокоми"
+      },
+      {
+        "item_id": 10000061,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/49767b6d7070afddae937e417253bb3f.png",
+        "attr": 4,
+        "level": 4,
+        "labels": [
+          228,
+          229,
+          455
+        ],
+        "name": "Кирара"
+      },
+      {
+        "item_id": 10000081,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a34ebd3dba93cda6fba3cc97a995822e.png",
+        "attr": 4,
+        "level": 4,
+        "labels": [
+          469,
+          221,
+          452
+        ],
+        "name": "Кавех"
+      },
+      {
+        "item_id": 10000080,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f239b3032e85ebb64554e69a58eec91b.png",
+        "attr": 7,
+        "level": 4,
+        "labels": [
+          41,
+          25,
+          26,
+          54,
+          457
+        ],
+        "name": "Мика"
+      },
+      {
+        "item_id": 10000046,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/699e3449/fbb8dbc972616d4b5004c2042e96c5c5.png",
+        "attr": 1,
+        "level": 5,
+        "labels": [
+          36,
+          47,
+          157
+        ],
+        "name": "Ху Тао"
+      },
+      {
+        "item_id": 10000077,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/d7ec9b285faccd804b54fa026dde96e8.png",
+        "attr": 4,
+        "level": 4,
+        "labels": [
+          30,
+          59,
+          452
+        ],
+        "name": "Яо Яо"
+      },
+      {
+        "item_id": 10000076,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/58a03d4cded3b6e93af3cc3efb708031.png",
+        "attr": 2,
+        "level": 4,
+        "labels": [
+          431,
+          389,
+          433
+        ],
+        "name": "Фарузан"
+      },
+      {
+        "item_id": 10000074,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/523506069469ad5f09b79daf6ed3a285.png",
+        "attr": 7,
+        "level": 4,
+        "labels": [
+          400,
+          57,
+          432
+        ],
+        "name": "Лайла"
+      },
+      {
+        "item_id": 10000072,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/9ef120c399afbf7f136034b68d721d44.png",
+        "attr": 6,
+        "level": 4,
+        "labels": [
+          433,
+          431,
+          389
+        ],
+        "name": "Кандакия"
+      },
+      {
+        "item_id": 10000037,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/2977be100672154bb7f5fc0d1abe0eb2.png",
+        "attr": 7,
+        "level": 5,
+        "labels": [
+          32,
+          47,
+          133
+        ],
+        "name": "Гань Юй"
+      },
+      {
+        "item_id": 10000068,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/d4892796ad70d139c13a6e42d170b877.png",
+        "attr": 5,
+        "level": 4,
+        "labels": [
+          390,
+          401,
+          389
+        ],
+        "name": "Дори"
+      },
+      {
+        "item_id": 10000067,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/eaf61637b76953695940fe1ceedb18a0.png",
+        "attr": 4,
+        "level": 4,
+        "labels": [
+          391,
+          56,
+          402
+        ],
+        "name": "Коллеи"
+      },
+      {
+        "item_id": 10000042,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/89d47da9c1ed3ade59b3c9f7fd00f1e8.png",
+        "attr": 5,
+        "level": 5,
+        "labels": [
+          40,
+          47,
+          135
+        ],
+        "name": "Кэ Цин"
+      },
+      {
+        "item_id": 10000035,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/2825ff5127afc078dd1bd3e1b2e39996.png",
+        "attr": 7,
+        "level": 5,
+        "labels": [
+          34,
+          57,
+          133
+        ],
+        "name": "Ци Ци"
+      },
+      {
+        "item_id": 10000062,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/ac42af1ac5dff78b080c5bdaa1bfbc76.png",
+        "attr": 7,
+        "level": 5,
+        "labels": [
+          211,
+          229,
+          181
+        ],
+        "name": "Элой"
+      },
+      {
+        "item_id": 10000005,
+        "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2026/08/24/d311eba245723b7e3b15e1d2deb8f8a7_6566639347563049912.png",
+        "attr": 5,
+        "level": 5,
+        "labels": [
+          43,
+          53,
+          55,
+          56,
+          57,
+          149
+        ],
+        "name": "Путешественник"
+      },
+      {
+        "item_id": 10000005,
+        "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2026/08/24/d311eba245723b7e3b15e1d2deb8f8a7_6566639347563049912.png",
+        "attr": 1,
+        "level": 5,
+        "labels": [
+          43,
+          53,
+          55,
+          56,
+          57,
+          149
+        ],
+        "name": "Путешественник"
+      },
+      {
+        "item_id": 10000005,
+        "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2026/08/24/d311eba245723b7e3b15e1d2deb8f8a7_6566639347563049912.png",
+        "attr": 2,
+        "level": 5,
+        "labels": [
+          43,
+          53,
+          55,
+          56,
+          57,
+          149
+        ],
+        "name": "Путешественник"
+      },
+      {
+        "item_id": 10000005,
+        "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2026/08/24/d311eba245723b7e3b15e1d2deb8f8a7_6566639347563049912.png",
+        "attr": 3,
+        "level": 5,
+        "labels": [
+          43,
+          53,
+          55,
+          56,
+          57,
+          149
+        ],
+        "name": "Путешественник"
+      },
+      {
+        "item_id": 10000005,
+        "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2026/08/24/d311eba245723b7e3b15e1d2deb8f8a7_6566639347563049912.png",
+        "attr": 4,
+        "level": 5,
+        "labels": [
+          43,
+          53,
+          55,
+          56,
+          57,
+          149
+        ],
+        "name": "Путешественник"
+      },
+      {
+        "item_id": 10000005,
+        "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2026/08/24/d311eba245723b7e3b15e1d2deb8f8a7_6566639347563049912.png",
+        "attr": 7,
+        "level": 5,
+        "labels": [
+          43,
+          53,
+          55,
+          56,
+          57,
+          149
+        ],
+        "name": "Путешественник"
+      },
+      {
+        "item_id": 10000005,
+        "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2026/08/24/d311eba245723b7e3b15e1d2deb8f8a7_6566639347563049912.png",
+        "attr": 6,
+        "level": 5,
+        "labels": [
+          43,
+          53,
+          55,
+          56,
+          57,
+          149
+        ],
+        "name": "Путешественник"
+      },
+      {
+        "item_id": 10000007,
+        "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2023/09/26/10dede5c05005ebb96bbe01f8408e775_7397178366194463086.png",
+        "attr": 5,
+        "level": 5,
+        "labels": [
+          43,
+          53,
+          55,
+          56,
+          57,
+          149
+        ],
+        "name": "Путешественник"
+      },
+      {
+        "item_id": 10000007,
+        "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2023/09/26/10dede5c05005ebb96bbe01f8408e775_7397178366194463086.png",
+        "attr": 1,
+        "level": 5,
+        "labels": [
+          43,
+          53,
+          55,
+          56,
+          57,
+          149
+        ],
+        "name": "Путешественник"
+      },
+      {
+        "item_id": 10000007,
+        "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2023/09/26/10dede5c05005ebb96bbe01f8408e775_7397178366194463086.png",
+        "attr": 2,
+        "level": 5,
+        "labels": [
+          43,
+          53,
+          55,
+          56,
+          57,
+          149
+        ],
+        "name": "Путешественник"
+      },
+      {
+        "item_id": 10000007,
+        "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2023/09/26/10dede5c05005ebb96bbe01f8408e775_7397178366194463086.png",
+        "attr": 3,
+        "level": 5,
+        "labels": [
+          43,
+          53,
+          55,
+          56,
+          57,
+          149
+        ],
+        "name": "Путешественник"
+      },
+      {
+        "item_id": 10000007,
+        "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2023/09/26/10dede5c05005ebb96bbe01f8408e775_7397178366194463086.png",
+        "attr": 4,
+        "level": 5,
+        "labels": [
+          43,
+          53,
+          55,
+          56,
+          57,
+          149
+        ],
+        "name": "Путешественник"
+      },
+      {
+        "item_id": 10000007,
+        "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2023/09/26/10dede5c05005ebb96bbe01f8408e775_7397178366194463086.png",
+        "attr": 6,
+        "level": 5,
+        "labels": [
+          43,
+          53,
+          55,
+          56,
+          57,
+          149
+        ],
+        "name": "Путешественник"
+      },
+      {
+        "item_id": 10000007,
+        "icon": "https://fastcdn.hoyoverse.com/static-resource-v2/2023/09/26/10dede5c05005ebb96bbe01f8408e775_7397178366194463086.png",
+        "attr": 7,
+        "level": 5,
+        "labels": [
+          43,
+          53,
+          55,
+          56,
+          57,
+          149
+        ],
+        "name": "Путешественник"
+      },
+      {
+        "item_id": 10000006,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/415cb4af1a402f97aebfcf8edc2ca235.png",
+        "attr": 5,
+        "level": 4,
+        "labels": [
+          29,
+          59,
+          135
+        ],
+        "name": "Лиза"
+      },
+      {
+        "item_id": 10000059,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c4d144d578bf42c6f03ac240a3bf2c3c.png",
+        "attr": 2,
+        "level": 4,
+        "labels": [
+          196,
+          58,
+          352
+        ],
+        "name": "Хэйдзо"
+      },
+      {
+        "item_id": 10000014,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f55430aba2d84b36d64136958c58c93a.png",
+        "attr": 6,
+        "level": 4,
+        "labels": [
+          39,
+          57,
+          136
+        ],
+        "name": "Барбара"
+      },
+      {
+        "item_id": 10000015,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/699e3449/c1d2a8e0948af4942feb5d086500528b.png",
+        "attr": 7,
+        "level": 4,
+        "labels": [
+          31,
+          58,
+          133
+        ],
+        "name": "Кэйа"
+      },
+      {
+        "item_id": 10000021,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/9fae2c3ff5862c261c8ad7200084f567.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          33,
+          56,
+          137
+        ],
+        "name": "Эмбер"
+      },
+      {
+        "item_id": 10000023,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c836c2dc7d71fe8065ae2798d360167b.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          30,
+          59,
+          137
+        ],
+        "name": "Сян Лин"
+      },
+      {
+        "item_id": 10000024,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/bc2903d1a46616c871d5108d033a463d.png",
+        "attr": 5,
+        "level": 4,
+        "labels": [
+          42,
+          58,
+          135
+        ],
+        "name": "Бэй Доу"
+      },
+      {
+        "item_id": 10000025,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/699e3449/cf352253ba22524007154d6d6fc66b55.png",
+        "attr": 6,
+        "level": 4,
+        "labels": [
+          36,
+          53,
+          55,
+          56,
+          57,
+          149,
+          136
+        ],
+        "name": "Син Цю"
+      },
+      {
+        "item_id": 10000027,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/699e3449/3ae1f1d40773cd13d361e329a7efd887.png",
+        "attr": 3,
+        "level": 4,
+        "labels": [
+          38,
+          25,
+          26,
+          54,
+          138
+        ],
+        "name": "Нин Гуан"
+      },
+      {
+        "item_id": 10000034,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/1eb5023b8ca517a5fe27316b3771a191.png",
+        "attr": 3,
+        "level": 4,
+        "labels": [
+          29,
+          53,
+          55,
+          56,
+          57,
+          149,
+          138
+        ],
+        "name": "Ноэлль"
+      },
+      {
+        "item_id": 10000036,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/38b5bd856ea9fff842477a77265da49b.png",
+        "attr": 7,
+        "level": 4,
+        "labels": [
+          40,
+          53,
+          55,
+          56,
+          57,
+          149,
+          133
+        ],
+        "name": "Чун Юнь"
+      },
+      {
+        "item_id": 10000039,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/699e3449/3de7b18fbecffbb57a73fe5032d24950.png",
+        "attr": 7,
+        "level": 4,
+        "labels": [
+          31,
+          56,
+          133
+        ],
+        "name": "Диона"
+      },
+      {
+        "item_id": 10000044,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/699e3449/b3085c5955360785fc5a1c25ab1a15f4.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          34,
+          58,
+          137
+        ],
+        "name": "Синь Янь"
+      },
+      {
+        "item_id": 10000045,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7987cb608a5375cdfd1e34dda9455a31.png",
+        "attr": 7,
+        "level": 4,
+        "labels": [
+          29,
+          25,
+          26,
+          54,
+          133
+        ],
+        "name": "Розария"
+      },
+      {
+        "item_id": 10000048,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/699e3449/9d2730b17e4cfdc85b52b163948a8c12.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          42,
+          58,
+          157
+        ],
+        "name": "Янь Фэй"
+      },
+      {
+        "item_id": 10000053,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/1791a03bc18b12a8030a4e16df2ea5f6.png",
+        "attr": 2,
+        "level": 4,
+        "labels": [
+          211,
+          47,
+          183
+        ],
+        "name": "Саю"
+      },
+      {
+        "item_id": 10000055,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a3a8da43e8c4d76986237ab784e49070.png",
+        "attr": 3,
+        "level": 4,
+        "labels": [
+          227,
+          229,
+          204
+        ],
+        "name": "Горо"
+      },
+      {
+        "item_id": 10000056,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/3dc3a368e5c3be42a05afb7a9fdc9c41.png",
+        "attr": 5,
+        "level": 4,
+        "labels": [
+          198,
+          53,
+          55,
+          56,
+          57,
+          149,
+          263
+        ],
+        "name": "Сара"
+      },
+      {
+        "item_id": 10000064,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/45fc56fa83f5447d6a61677f514a9131.png",
+        "attr": 3,
+        "level": 4,
+        "labels": [
+          38,
+          53,
+          55,
+          56,
+          57,
+          149,
+          318
+        ],
+        "name": "Юнь Цзинь"
+      },
+      {
+        "item_id": 10000065,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/caa2e14875915abee78b186b61fd8f3a.png",
+        "attr": 5,
+        "level": 4,
+        "labels": [
+          197,
+          229,
+          352
+        ],
+        "name": "Синобу"
+      }
+    ],
+    "attrs": {
+      "6": {
+        "icon_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/2ed1a01337ae974bdde47a8e83d2765c_5121888011710266098.png",
+        "icon_un_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/5f82c3f1d41107680cc86d76366d7b72_2154276200298323098.png"
+      },
+      "7": {
+        "icon_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/f1320686ba6ce06f7dcb70e7baf04c8d_3940051968560738665.png",
+        "icon_un_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/d67306fb7c0e09252de5d0b027cc4227_2923792541741391359.png"
+      },
+      "1": {
+        "icon_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/6cea801862718661536f272ac7317b62_6830334169239193840.png",
+        "icon_un_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/38f20fa41e6a1555229e04a131b64ef1_6050062667349007475.png"
+      },
+      "2": {
+        "icon_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/10f8e8e2f9ad3cb07d6b036cb392c134_816018747423645179.png",
+        "icon_un_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/a3734098957e649f81d6f4a9c034b0a7_6775491950337756048.png"
+      },
+      "3": {
+        "icon_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/a017daea72e284afb216309c687e7b10_8423157753627713870.png",
+        "icon_un_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/7b791c39136ffda97ac4c2bc4ca1e65a_5716922311061947637.png"
+      },
+      "4": {
+        "icon_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/c5fc51e60fcf9e8d504622582a4fc098_4321724260434719480.png",
+        "icon_un_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/6943a2e748b418041ca95fe7bc15637b_9116318144613469481.png"
+      },
+      "5": {
+        "icon_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/c1af31e349a00c89b6abfd1205dc68e2_5830179621829440358.png",
+        "icon_un_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/040af4a2e61251007209ac378f85e864_5240215774247162785.png"
+      }
+    },
+    "update_time": 1793758325
+  },
+  "weapon": {
+    "list": [
+      {
+        "item_id": 14525,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6aea6776/ec4643eca7890833b5b415f7ad5dc79b.png",
+        "attr": 10,
+        "level": 5,
+        "labels": [
+          844,
+          881
+        ],
+        "name": "Звёздный указ"
+      },
+      {
+        "item_id": 11513,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a0c785ee7bcfa4e7dd19032b8c28c7fa.png",
+        "attr": 1,
+        "level": 5,
+        "labels": [
+          493,
+          495
+        ],
+        "name": "Блеск тихих вод"
+      },
+      {
+        "item_id": 13514,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/681a947b/6d211f1902adc8a5946a5530489ab77a.png",
+        "attr": 13,
+        "level": 5,
+        "labels": [
+          495,
+          493
+        ],
+        "name": "Симфонист ароматов"
+      },
+      {
+        "item_id": 11517,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6851f37b/2b47d934eb09f3926908c37462569291.png",
+        "attr": 1,
+        "level": 5,
+        "labels": [
+          612,
+          606
+        ],
+        "name": "Лазурное сияние"
+      },
+      {
+        "item_id": 11522,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6ab31686/ecedbeb41258bf291e127603ea519449.png",
+        "attr": 1,
+        "level": 5,
+        "labels": [
+          845,
+          846
+        ],
+        "name": "За пределами кокона"
+      },
+      {
+        "item_id": 14524,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6ab31686/c506b7ca17eac4081f7749f68a3ad398.png",
+        "attr": 10,
+        "level": 5,
+        "labels": [
+          843,
+          844
+        ],
+        "name": "Ода водоворота"
+      },
+      {
+        "item_id": 13516,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/51a4244e38d1011926a21f25942e78c6.png",
+        "attr": 13,
+        "level": 5,
+        "labels": [
+          740,
+          739
+        ],
+        "name": "Окровавленные руины"
+      },
+      {
+        "item_id": 13515,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6889608b/9d23036ecf61183797246cf410765956.png",
+        "attr": 13,
+        "level": 5,
+        "labels": [
+          669,
+          603
+        ],
+        "name": "Расколотый ореол"
+      },
+      {
+        "item_id": 11520,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a7ba976/8ddba75e7fec894e50aa646f1f0fe069.png",
+        "attr": 1,
+        "level": 5,
+        "labels": [
+          846,
+          845
+        ],
+        "name": "Морозное перо белого озера"
+      },
+      {
+        "item_id": 13512,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/30b345a334076865566f0da4e36d8d0d.png",
+        "attr": 13,
+        "level": 5,
+        "labels": [
+          494,
+          585
+        ],
+        "name": "Очертания алой луны"
+      },
+      {
+        "item_id": 14522,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6966dc8c/045d1721aca8d78c25b640867cdb4171.png",
+        "attr": 10,
+        "level": 5,
+        "labels": [
+          768,
+          739
+        ],
+        "name": "Вызов ноктюрна"
+      },
+      {
+        "item_id": 13509,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/481772ac498bbc4a9b61c694144096e5.png",
+        "attr": 13,
+        "level": 5,
+        "labels": [
+          215,
+          209
+        ],
+        "name": "Сияющая жатва"
+      },
+      {
+        "item_id": 12516,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a44588e/0ce22fa824865975f716bc620a24a0d8.png",
+        "attr": 11,
+        "level": 5,
+        "labels": [
+          739,
+          820
+        ],
+        "name": "Чайная ложка трансцендентности"
+      },
+      {
+        "item_id": 14517,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/dbf7751578357bde53f9b563aee72250.png",
+        "attr": 10,
+        "level": 5,
+        "labels": [
+          606,
+          604
+        ],
+        "name": "Бдение взывающего к звёздам"
+      },
+      {
+        "item_id": 13517,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a0cf98d/fce1c32ef5e9cd3bd775dfdf5c0de06c.png",
+        "attr": 13,
+        "level": 5,
+        "labels": [
+          736,
+          47
+        ],
+        "name": "Бедствие и раскаяние"
+      },
+      {
+        "item_id": 12514,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/6e57c13f34e89eae3339461e4f1afe3f.png",
+        "attr": 11,
+        "level": 5,
+        "labels": [
+          605,
+          603
+        ],
+        "name": "Тысяча ослепительных солнц"
+      },
+      {
+        "item_id": 14523,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a0cf98d/8bc74e76d3888a46a6279ba1a765978b.png",
+        "attr": 10,
+        "level": 5,
+        "labels": [
+          809,
+          738
+        ],
+        "name": "Гептада ангела"
+      },
+      {
+        "item_id": 11518,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/692f7d8b/9708b5d495021c4c5472f1615be537e0.png",
+        "attr": 1,
+        "level": 5,
+        "labels": [
+          737,
+          738
+        ],
+        "name": "Атаме артис"
+      },
+      {
+        "item_id": 14520,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/7ce217365ba59cfa41e23ef13319dba9.png",
+        "attr": 10,
+        "level": 5,
+        "labels": [
+          737,
+          738
+        ],
+        "name": "Зеркало прядильщицы ночи"
+      },
+      {
+        "item_id": 14521,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68f81e8b/23a39268794ca7cb0d4e30c459ce823b.png",
+        "attr": 10,
+        "level": 5,
+        "labels": [
+          221,
+          736
+        ],
+        "name": "Шкатулка истин"
+      },
+      {
+        "item_id": 11515,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0f4646d85544fa3087186883cd9918c9.png",
+        "attr": 1,
+        "level": 5,
+        "labels": [
+          541,
+          494
+        ],
+        "name": "Отпущение грехов"
+      },
+      {
+        "item_id": 12512,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/89c37ece820a0a1eca5f2b65a98a5e7a.png",
+        "attr": 11,
+        "level": 5,
+        "labels": [
+          494,
+          496
+        ],
+        "name": "Вердикт"
+      },
+      {
+        "item_id": 13513,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/815db248eebc121db24905994b274150.png",
+        "attr": 13,
+        "level": 5,
+        "labels": [
+          585,
+          47
+        ],
+        "name": "Элегия Люмидус"
+      },
+      {
+        "item_id": 15513,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/49934c2c44b1f643f96bc4b65b534eca.png",
+        "attr": 12,
+        "level": 5,
+        "labels": [
+          563,
+          493
+        ],
+        "name": "Сердечные струны дождя"
+      },
+      {
+        "item_id": 15512,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/834006ea86ff338ed823d2ccd09a1169.png",
+        "attr": 12,
+        "level": 5,
+        "labels": [
+          493,
+          495
+        ],
+        "name": "Первый великий фокус"
+      },
+      {
+        "item_id": 15516,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/69d58c7d/f2f6618938b4163623b68daf1b165fe0.png",
+        "attr": 12,
+        "level": 5,
+        "labels": [
+          739,
+          809
+        ],
+        "name": "Золотая клятва льда"
+      },
+      {
+        "item_id": 15514,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/afac47d999995ce3577c7034ff277c44.png",
+        "attr": 12,
+        "level": 5,
+        "labels": [
+          606,
+          612
+        ],
+        "name": "Алое перо звёздного грифа"
+      },
+      {
+        "item_id": 12515,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/699e3449/3ccb453e2177597f059193e5c6e50735.png",
+        "attr": 11,
+        "level": 5,
+        "labels": [
+          739,
+          768
+        ],
+        "name": "Подвиг могучего волка"
+      },
+      {
+        "item_id": 12503,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/13a14bc2183b1a33041042b77ac4b640.png",
+        "attr": 11,
+        "level": 5,
+        "labels": [
+          53,
+          55,
+          56,
+          57,
+          149,
+          150,
+          28,
+          27
+        ],
+        "name": "Песнь разбитых сосен"
+      },
+      {
+        "item_id": 11519,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6966dc8c/fa2ac4d5a0238fb674c44670652fc284.png",
+        "attr": 1,
+        "level": 5,
+        "labels": [
+          740,
+          738
+        ],
+        "name": "Светоносный осколок луны"
+      },
+      {
+        "item_id": 14514,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a9c72ec4bc54b9acf27362095da7af61.png",
+        "attr": 10,
+        "level": 5,
+        "labels": [
+          494,
+          496
+        ],
+        "name": "Обряд вечного течения"
+      },
+      {
+        "item_id": 15515,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/692f7d8b/1112f5bf9c69ad6a989b8cb259497f6c.png",
+        "attr": 12,
+        "level": 5,
+        "labels": [
+          149,
+          58
+        ],
+        "name": "Хроники рассвета"
+      },
+      {
+        "item_id": 13504,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/503b33a86fdecbca9254d3cbf9630e14.png",
+        "attr": 13,
+        "level": 5,
+        "labels": [
+          49,
+          169,
+          58
+        ],
+        "name": "Покоритель вихря"
+      },
+      {
+        "item_id": 12435,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a7ba976/f3831aed5e415c960fe1b6ad8f6024e5.png",
+        "attr": 11,
+        "level": 4,
+        "labels": [
+          585,
+          493
+        ],
+        "name": "Творение золотой мелодии"
+      },
+      {
+        "item_id": 15435,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a7ba976/0f601bcd039f213598bb9d89842c982e.png",
+        "attr": 12,
+        "level": 4,
+        "labels": [
+          49,
+          169,
+          214,
+          54,
+          25
+        ],
+        "name": "Поникшая артемизия"
+      },
+      {
+        "item_id": 14435,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a7ba976/741f589153ef2d22307233be14b00e12.png",
+        "attr": 10,
+        "level": 4,
+        "labels": [
+          434,
+          389
+        ],
+        "name": "Игры королей"
+      },
+      {
+        "item_id": 13435,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a7ba976/42f9925ccf0ed36513ab375d0ccd606f.png",
+        "attr": 13,
+        "level": 4,
+        "labels": [
+          843,
+          845
+        ],
+        "name": "Морозное дыхание"
+      },
+      {
+        "item_id": 11435,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a7ba976/87d27550c758abfcfe4295bf1feaa7f3.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          669,
+          606
+        ],
+        "name": "Расплавленный клинок еретика"
+      },
+      {
+        "item_id": 11436,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a7ba976/b994ba18cd4931b61958de51b5395d67.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          843,
+          844
+        ],
+        "name": "Источник пламени"
+      },
+      {
+        "item_id": 14436,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a7ba976/93c5de39db16c894abaf1df56b710dd5.png",
+        "attr": 10,
+        "level": 4,
+        "labels": [
+          843,
+          844
+        ],
+        "name": "Отголоски сердца"
+      },
+      {
+        "item_id": 12436,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a7ba976/7f31b15690c0c7d5f3fc385b7ad0bf8d.png",
+        "attr": 11,
+        "level": 4,
+        "labels": [
+          845,
+          846
+        ],
+        "name": "Клинок искупления"
+      },
+      {
+        "item_id": 15436,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a7ba976/2865b59789886b72f1a9a9bcf3e731de.png",
+        "attr": 12,
+        "level": 4,
+        "labels": [
+          845,
+          846
+        ],
+        "name": "Завет льда и снега"
+      },
+      {
+        "item_id": 13436,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6a7ba976/1c4ebc0821298a77ebd8cf5ef487b871.png",
+        "attr": 13,
+        "level": 4,
+        "labels": [
+          844,
+          846
+        ],
+        "name": "Песнь бдения"
+      },
+      {
+        "item_id": 14434,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/692f7d8b/182fc5756eed43ba0f54878cf0463207.png",
+        "attr": 10,
+        "level": 4,
+        "labels": [
+          737,
+          739
+        ],
+        "name": "Рассветный иней"
+      },
+      {
+        "item_id": 13434,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68f81e8b/c8d9e50b48a7a69f8f90b6d2e566d5dc.png",
+        "attr": 13,
+        "level": 4,
+        "labels": [
+          740,
+          738
+        ],
+        "name": "Посох жертвующей"
+      },
+      {
+        "item_id": 11434,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/22a2b4dd7289c7085f7cb13e8a41c069.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          736,
+          738
+        ],
+        "name": "Рассвет прядильщицы луны"
+      },
+      {
+        "item_id": 15508,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0986345abd92564279c5a11f491bd6c0.png",
+        "attr": 12,
+        "level": 5,
+        "labels": [
+          229,
+          344
+        ],
+        "name": "Аква симулякрум"
+      },
+      {
+        "item_id": 14511,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7cf365df4327805751ed47e8cda853bb.png",
+        "attr": 10,
+        "level": 5,
+        "labels": [
+          434,
+          221
+        ],
+        "name": "Сновидения тысячи ночей"
+      },
+      {
+        "item_id": 14432,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/c46b6bec8f810d6406ed662e2235ab7e.png",
+        "attr": 10,
+        "level": 4,
+        "labels": [
+          736,
+          739
+        ],
+        "name": "Лютня ткача света"
+      },
+      {
+        "item_id": 15433,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/8820ca86f5d001904454f08b286da125.png",
+        "attr": 12,
+        "level": 4,
+        "labels": [
+          740,
+          56
+        ],
+        "name": "Крюк силка"
+      },
+      {
+        "item_id": 14433,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/77727a0468afbde82f9baf1082b9861e.png",
+        "attr": 10,
+        "level": 4,
+        "labels": [
+          737,
+          739
+        ],
+        "name": "Фонарь чёрной сердцевины"
+      },
+      {
+        "item_id": 13433,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/5bd3fed061ae6bae4c084353c48df759.png",
+        "attr": 13,
+        "level": 4,
+        "labels": [
+          740,
+          738
+        ],
+        "name": "Лопата старателя"
+      },
+      {
+        "item_id": 12433,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/bf204697b55c81571860b964707430e7.png",
+        "attr": 11,
+        "level": 4,
+        "labels": [
+          736,
+          738
+        ],
+        "name": "Мастер-ключ"
+      },
+      {
+        "item_id": 11433,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/68c0b17a/bc9827241e82419faaab72e24d1cf1d3.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          737,
+          739
+        ],
+        "name": "Зов безмятежности"
+      },
+      {
+        "item_id": 14512,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f1bd10806edde7470a4e4a00d63692f5.png",
+        "attr": 10,
+        "level": 5,
+        "labels": [
+          221
+        ],
+        "name": "Воспоминания Тулайтуллы"
+      },
+      {
+        "item_id": 11512,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/d4ce6ec60d82eec0908027c16e9c1b68.png",
+        "attr": 1,
+        "level": 5,
+        "labels": [
+          454,
+          389
+        ],
+        "name": "Свет лиственного разреза"
+      },
+      {
+        "item_id": 11511,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/d51d92c819500a9c2a4fb200ffeb8c08.png",
+        "attr": 1,
+        "level": 5,
+        "labels": [
+          389,
+          434
+        ],
+        "name": "Ключ Хадж-нисут"
+      },
+      {
+        "item_id": 13511,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0045e2a1f5eb25cabe20db8c79b3cfd6.png",
+        "attr": 13,
+        "level": 5,
+        "labels": [
+          221,
+          388
+        ],
+        "name": "Посох алых песков"
+      },
+      {
+        "item_id": 15511,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/dc35942eb26612d7759acededff35fa0.png",
+        "attr": 12,
+        "level": 5,
+        "labels": [
+          221,
+          389
+        ],
+        "name": "Охотничья тропа"
+      },
+      {
+        "item_id": 12511,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/e1eefe2e1a8a70ad45823a6af99e7d7a.png",
+        "attr": 11,
+        "level": 5,
+        "labels": [
+          389,
+          454
+        ],
+        "name": "Маяк тростникового моря"
+      },
+      {
+        "item_id": 14516,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/ad90ce11f6af2cf1db44380af745e4ec.png",
+        "attr": 10,
+        "level": 5,
+        "labels": [
+          604,
+          603
+        ],
+        "name": "Лови волну"
+      },
+      {
+        "item_id": 12432,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/6889608b/5662318eb81ba5f01cbaa8ef2b9b2214.png",
+        "attr": 11,
+        "level": 4,
+        "labels": [
+          669,
+          493
+        ],
+        "name": "Выкованное пламенем озарение"
+      },
+      {
+        "item_id": 13507,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/60e9db1560db9a7aa3b8a930cf30ce12.png",
+        "attr": 13,
+        "level": 5,
+        "labels": [
+          26,
+          47
+        ],
+        "name": "Усмиритель бед"
+      },
+      {
+        "item_id": 15432,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/681a947b/74182d9654a8ed410e405ca87475812f.png",
+        "attr": 12,
+        "level": 4,
+        "labels": [
+          669,
+          494
+        ],
+        "name": "Каденция одиночества"
+      },
+      {
+        "item_id": 11516,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/192f70211e4456786ebb3cb0c9222e43.png",
+        "attr": 1,
+        "level": 5,
+        "labels": [
+          605,
+          603
+        ],
+        "name": "Песнь патруля пиков"
+      },
+      {
+        "item_id": 15503,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/e9555699ff95fac410422d9dfd7e631a.png",
+        "attr": 12,
+        "level": 5,
+        "labels": [
+          25,
+          26,
+          54,
+          149,
+          53
+        ],
+        "name": "Элегия погибели"
+      },
+      {
+        "item_id": 14519,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67e3357c/db3c23247fa556442b7d1fdd5e4a4fb6.png",
+        "attr": 10,
+        "level": 5,
+        "labels": [
+          603,
+          669
+        ],
+        "name": "Переливающиеся чаяния"
+      },
+      {
+        "item_id": 14518,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fa7fc655e5c1bab724c7893ec3f58d91.png",
+        "attr": 10,
+        "level": 5,
+        "labels": [
+          229,
+          607
+        ],
+        "name": "Сон солнечным утром"
+      },
+      {
+        "item_id": 15430,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/03b273f10d0633aedb370051950e91fd.png",
+        "attr": 12,
+        "level": 4,
+        "labels": [
+          606,
+          607
+        ],
+        "name": "Украшенные цветами перья"
+      },
+      {
+        "item_id": 14430,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/bfae38e15e0405f03aa28fdc7b101820.png",
+        "attr": 10,
+        "level": 4,
+        "labels": [
+          603,
+          604
+        ],
+        "name": "Вихрь на волнах"
+      },
+      {
+        "item_id": 11514,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c8d3a5b868846ec4819294483de2f90b.png",
+        "attr": 1,
+        "level": 5,
+        "labels": [
+          209,
+          215
+        ],
+        "name": "Ураку мисугири"
+      },
+      {
+        "item_id": 12513,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a9184535c8743e8da52fa2debd54f7d8.png",
+        "attr": 11,
+        "level": 5,
+        "labels": [
+          607,
+          606
+        ],
+        "name": "Клык Горного короля"
+      },
+      {
+        "item_id": 13431,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/61747b9617129bbe11dcf84a93de3fe1.png",
+        "attr": 13,
+        "level": 4,
+        "labels": [
+          605,
+          606
+        ],
+        "name": "След радуги"
+      },
+      {
+        "item_id": 14427,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/92039ba9ea4140e6ffbb61713622847d.png",
+        "attr": 10,
+        "level": 4,
+        "labels": [
+          605,
+          603
+        ],
+        "name": "Пепельный рог"
+      },
+      {
+        "item_id": 11503,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fcc21d0d30236aa146f099de4e4bdfa8.png",
+        "attr": 1,
+        "level": 5,
+        "labels": [
+          150,
+          28,
+          27,
+          57
+        ],
+        "name": "Клятва свободы"
+      },
+      {
+        "item_id": 11431,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/4ffc901bcdb3a6c5e6c84d100af0e58d.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          585,
+          603
+        ],
+        "name": "Флейта Эспицаль"
+      },
+      {
+        "item_id": 15431,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/db2a58cc67636814146192b0e748e9a6.png",
+        "attr": 12,
+        "level": 4,
+        "labels": [
+          563,
+          603
+        ],
+        "name": "Разбивающий цепи"
+      },
+      {
+        "item_id": 14431,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/59c44935ff819c319548daff2b222127.png",
+        "attr": 10,
+        "level": 4,
+        "labels": [
+          604,
+          55,
+          57,
+          56
+        ],
+        "name": "Кольцо Яшче"
+      },
+      {
+        "item_id": 12431,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/5b961a68fc9a53711c1ee38504517401.png",
+        "attr": 11,
+        "level": 4,
+        "labels": [
+          607,
+          606
+        ],
+        "name": "Сотрясающий землю"
+      },
+      {
+        "item_id": 15426,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/b2c9dcddaa4da988c7ee15045af8d8bc.png",
+        "attr": 12,
+        "level": 4,
+        "labels": [
+          585,
+          54,
+          25,
+          26
+        ],
+        "name": "Выкованный из облаков"
+      },
+      {
+        "item_id": 14505,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/ba93fa1f1b51d815a2ee1478f34e84ef.png",
+        "attr": 10,
+        "level": 5,
+        "labels": [
+          456,
+          221
+        ],
+        "name": "Великолепие лазурного свода"
+      },
+      {
+        "item_id": 12510,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a3d93fd480b8838c79d99aa8f90e7081.png",
+        "attr": 11,
+        "level": 5,
+        "labels": [
+          265,
+          209
+        ],
+        "name": "Краснорогий камнеруб"
+      },
+      {
+        "item_id": 13426,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/004899f4640baadfa2be9d9dc0e90419.png",
+        "attr": 13,
+        "level": 4,
+        "labels": [
+          229,
+          563
+        ],
+        "name": "Диалог пустынных мудрецов"
+      },
+      {
+        "item_id": 14515,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/876ff00e5e80e02cc801bc6c37e48b84.png",
+        "attr": 10,
+        "level": 5,
+        "labels": [
+          563,
+          57
+        ],
+        "name": "Звонкий клич журавля"
+      },
+      {
+        "item_id": 11509,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/3c881bf12a6b24197d9df60b81329e52.png",
+        "attr": 1,
+        "level": 5,
+        "labels": [
+          209,
+          215
+        ],
+        "name": "Рассекающий туман"
+      },
+      {
+        "item_id": 15509,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/d3cdbcebbaac5598dcd973424e685b8b.png",
+        "attr": 12,
+        "level": 5,
+        "labels": [
+          210,
+          56
+        ],
+        "name": "Громовой пульс"
+      },
+      {
+        "item_id": 12426,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/2c73799dd587e54c75af09cf87d8576a.png",
+        "attr": 11,
+        "level": 4,
+        "labels": [
+          494,
+          541
+        ],
+        "name": "«Магический супермеч высшего владыки»"
+      },
+      {
+        "item_id": 12425,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/95def815e975a9fb89e9697209de8578.png",
+        "attr": 11,
+        "level": 4,
+        "labels": [
+          494,
+          496
+        ],
+        "name": "Тень волны"
+      },
+      {
+        "item_id": 11510,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c0d5a9cc91eec72ee2d77ead379a7331.png",
+        "attr": 1,
+        "level": 5,
+        "labels": [
+          344,
+          209
+        ],
+        "name": "Харан гэппаку фуцу"
+      },
+      {
+        "item_id": 11428,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7ef90872b3553d9c0f4e3452737cec2d.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          541,
+          493
+        ],
+        "name": "Меч Нарциссенкрейца"
+      },
+      {
+        "item_id": 14513,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f540cf493ce73c0b3afa3bc32940bfa0.png",
+        "attr": 10,
+        "level": 5,
+        "labels": [
+          493,
+          541
+        ],
+        "name": "Казначейский надзор"
+      },
+      {
+        "item_id": 14426,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/e8e43cfd0ba489f79f5fb138e2178554.png",
+        "attr": 10,
+        "level": 4,
+        "labels": [
+          49,
+          169,
+          58
+        ],
+        "name": "Песнь необъятной лазури"
+      },
+      {
+        "item_id": 11427,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/137e6ee9d36a6af76d67718713859bbd.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          541,
+          493
+        ],
+        "name": "Верфь"
+      },
+      {
+        "item_id": 12427,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f849ee063b4aafdf78deae9ef0cbf39f.png",
+        "attr": 11,
+        "level": 4,
+        "labels": [
+          494,
+          496
+        ],
+        "name": "Переносная мотопила"
+      },
+      {
+        "item_id": 13424,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/78b8e15bfba8cf8070335df8c29213fe.png",
+        "attr": 13,
+        "level": 4,
+        "labels": [
+          456,
+          47
+        ],
+        "name": "Баллада фьордов"
+      },
+      {
+        "item_id": 12424,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f6f37714a0a83e1974c458bdac72df48.png",
+        "attr": 11,
+        "level": 4,
+        "labels": [
+          454,
+          59
+        ],
+        "name": "Говорящая палица"
+      },
+      {
+        "item_id": 15424,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/656ed54983d6f96092bb307e2589f1c1.png",
+        "attr": 12,
+        "level": 4,
+        "labels": [
+          456,
+          221
+        ],
+        "name": "Наследник слепящего солнца"
+      },
+      {
+        "item_id": 14424,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/95e2a7c637afe59f0ec81b2da9ad49c9.png",
+        "attr": 10,
+        "level": 4,
+        "labels": [
+          26,
+          57
+        ],
+        "name": "Жертвенный нефрит"
+      },
+      {
+        "item_id": 11424,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/86a26398db607012d49be9f7e0dd0476.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          150,
+          27,
+          28,
+          55,
+          56
+        ],
+        "name": "Волчий клык"
+      },
+      {
+        "item_id": 11426,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7ef38be38f19ff27bbba79f48b29e3c1.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          493,
+          495
+        ],
+        "name": "Перевозчик Флёв Сандр"
+      },
+      {
+        "item_id": 15425,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/e8e52713d73416d6bd4860e2ec7eebf0.png",
+        "attr": 12,
+        "level": 4,
+        "labels": [
+          495,
+          57
+        ],
+        "name": "Мелодия покоя"
+      },
+      {
+        "item_id": 11425,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/3d55aea4fa30254d868ad4fa4720c6b2.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          495,
+          209
+        ],
+        "name": "Грандиозный финал глубин"
+      },
+      {
+        "item_id": 13425,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/97828545a1aced0bcab8f3dbd38501b9.png",
+        "attr": 13,
+        "level": 4,
+        "labels": [
+          494,
+          496
+        ],
+        "name": "Справедливая награда"
+      },
+      {
+        "item_id": 14425,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/6533155e829bb778b9ef84563a09e692.png",
+        "attr": 10,
+        "level": 4,
+        "labels": [
+          493,
+          496
+        ],
+        "name": "Сверкание чистых вод"
+      },
+      {
+        "item_id": 14502,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/856b4ea453095a88e8cbb3f438d3fa83.png",
+        "attr": 10,
+        "level": 5,
+        "labels": [
+          150,
+          28,
+          27,
+          59
+        ],
+        "name": "Молитва святым ветрам"
+      },
+      {
+        "item_id": 14506,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c7638821093bb021334a85900466137f.png",
+        "attr": 10,
+        "level": 5,
+        "labels": [
+          210,
+          229
+        ],
+        "name": "Вечное лунное сияние"
+      },
+      {
+        "item_id": 14509,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/5df4b80100a07922792ac85362ee6af8.png",
+        "attr": 10,
+        "level": 5,
+        "labels": [
+          229,
+          265
+        ],
+        "name": "Истина кагура"
+      },
+      {
+        "item_id": 15502,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fe810457e28088dc44b0500d90e417f5.png",
+        "attr": 12,
+        "level": 5,
+        "labels": [
+          150,
+          28,
+          27,
+          59
+        ],
+        "name": "Лук Амос"
+      },
+      {
+        "item_id": 14410,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/32ec1c8d3421d0a88d2e9eb8e357cf29.png",
+        "attr": 10,
+        "level": 4,
+        "labels": [
+          24,
+          58
+        ],
+        "name": "Вино и песни"
+      },
+      {
+        "item_id": 11410,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c8c9aeb35a289a39adcd796d421c1b29.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          149,
+          53,
+          57
+        ],
+        "name": "Вспышка во тьме"
+      },
+      {
+        "item_id": 15410,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0bf9e977296b6c9a5e6aff3ef377a3b9.png",
+        "attr": 12,
+        "level": 4,
+        "labels": [
+          150,
+          28,
+          27,
+          59
+        ],
+        "name": "Охотник во тьме"
+      },
+      {
+        "item_id": 12418,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f9c8a43e26e2e0cfca8d757a07d4c235.png",
+        "attr": 11,
+        "level": 4,
+        "labels": [
+          454,
+          229
+        ],
+        "name": "Цветок в латах"
+      },
+      {
+        "item_id": 13501,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/d9ea5f48b504d48837cace02efdf1b8c.png",
+        "attr": 13,
+        "level": 5,
+        "labels": [
+          59,
+          24
+        ],
+        "name": "Посох Хомы"
+      },
+      {
+        "item_id": 13505,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/4b8624f9f3d335b504d879e9b1e07ae9.png",
+        "attr": 13,
+        "level": 5,
+        "labels": [
+          25,
+          26,
+          54
+        ],
+        "name": "Нефритовый коршун"
+      },
+      {
+        "item_id": 15507,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/50ec4928dd095307807b59617a889b62.png",
+        "attr": 12,
+        "level": 5,
+        "labels": [
+          229,
+          265
+        ],
+        "name": "Полярная звезда"
+      },
+      {
+        "item_id": 11418,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/6e73725d6886d81d5a9b6525a2bdb31f.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          389,
+          434
+        ],
+        "name": "Лунное сияние ксифоса"
+      },
+      {
+        "item_id": 14416,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/e8d25e1a09cbca9b5069ad93c00d7b68.png",
+        "attr": 10,
+        "level": 4,
+        "labels": [
+          221
+        ],
+        "name": "Скитающаяся звезда"
+      },
+      {
+        "item_id": 13419,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0ea3522df5405f90d90505f5e36c2008.png",
+        "attr": 13,
+        "level": 4,
+        "labels": [
+          344,
+          59
+        ],
+        "name": "Копьё послания ветров"
+      },
+      {
+        "item_id": 12415,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/cc4498636d1de587406d20b7c5f84c60.png",
+        "attr": 11,
+        "level": 4,
+        "labels": [
+          388,
+          58
+        ],
+        "name": "Аквамарин Махайры"
+      },
+      {
+        "item_id": 15418,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/757dd6f75e6f4225088be09435d9d03b.png",
+        "attr": 12,
+        "level": 4,
+        "labels": [
+          221
+        ],
+        "name": "Иссушитель"
+      },
+      {
+        "item_id": 15417,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/b14920a1d49af70c345e1663eac49717.png",
+        "attr": 12,
+        "level": 4,
+        "labels": [
+          221,
+          56
+        ],
+        "name": "Приближённый короля"
+      },
+      {
+        "item_id": 12417,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/3ee3cc488b17390afc4aa92d7ee2dad6.png",
+        "attr": 11,
+        "level": 4,
+        "labels": [
+          389,
+          388
+        ],
+        "name": "Регалия леса"
+      },
+      {
+        "item_id": 14417,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c533c74b11161cf1b59f745b727c98cf.png",
+        "attr": 10,
+        "level": 4,
+        "labels": [
+          221,
+          344
+        ],
+        "name": "Плод восполнения"
+      },
+      {
+        "item_id": 13417,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7091bc230ebbe5015f5c8a7418a721c0.png",
+        "attr": 13,
+        "level": 4,
+        "labels": [
+          388,
+          54,
+          25,
+          26
+        ],
+        "name": "Пронзающий луну"
+      },
+      {
+        "item_id": 11417,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/ade9757e4346ef1402c32bdde6b7a7e4.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          389,
+          388
+        ],
+        "name": "Деревянный клинок"
+      },
+      {
+        "item_id": 11422,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/74ef003a497f24a85e4e1e0af0793530.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          209,
+          434
+        ],
+        "name": "Токабо сигурэ"
+      },
+      {
+        "item_id": 11501,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/2e40de313b0b488549fde96e553e7fcf.png",
+        "attr": 1,
+        "level": 5,
+        "labels": [
+          149,
+          53,
+          56
+        ],
+        "name": "Меч Сокола"
+      },
+      {
+        "item_id": 11502,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/ecb922197e45697d9edde75af4b8df93.png",
+        "attr": 1,
+        "level": 5,
+        "labels": [
+          24,
+          59
+        ],
+        "name": "Небесный меч"
+      },
+      {
+        "item_id": 11504,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/4b143147ac265bcf3bf703fbe95c4479.png",
+        "attr": 1,
+        "level": 5,
+        "labels": [
+          53,
+          55,
+          56,
+          57,
+          149,
+          25
+        ],
+        "name": "Кромсатель пиков"
+      },
+      {
+        "item_id": 11505,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/6a538e31e42088f7ba572556cc5862e0.png",
+        "attr": 1,
+        "level": 5,
+        "labels": [
+          58,
+          26
+        ],
+        "name": "Драгоценный омут"
+      },
+      {
+        "item_id": 11101,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0b590e80914fdb8e348323fff888be0c.png",
+        "attr": 1,
+        "level": 1,
+        "labels": [
+          149,
+          53,
+          56
+        ],
+        "name": "Тупой меч"
+      },
+      {
+        "item_id": 11201,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/73748953f526f339fe5ed1707c295fd9.png",
+        "attr": 1,
+        "level": 2,
+        "labels": [
+          149,
+          53,
+          56
+        ],
+        "name": "Серебряный меч"
+      },
+      {
+        "item_id": 11301,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/78feee812f5df4c3a886d93a06092da1.png",
+        "attr": 1,
+        "level": 3,
+        "labels": [
+          149,
+          53,
+          56
+        ],
+        "name": "Холодное лезвие"
+      },
+      {
+        "item_id": 11302,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/048119e09a837be4c1a735fd046e3261.png",
+        "attr": 1,
+        "level": 3,
+        "labels": [
+          24,
+          59
+        ],
+        "name": "Предвестник зари"
+      },
+      {
+        "item_id": 11303,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/6b735c4a2cc309a44c5c682f81364261.png",
+        "attr": 1,
+        "level": 3,
+        "labels": [
+          150,
+          28,
+          27,
+          57
+        ],
+        "name": "Меч путешественника"
+      },
+      {
+        "item_id": 11304,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/14dbdf6255569327567b6e5e9f113fd4.png",
+        "attr": 1,
+        "level": 3,
+        "labels": [
+          53,
+          55,
+          56,
+          57,
+          149,
+          25
+        ],
+        "name": "Тёмный железный меч"
+      },
+      {
+        "item_id": 11305,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f1a49244f7411707529b38815a9d9cb5.png",
+        "attr": 1,
+        "level": 3,
+        "labels": [
+          58,
+          26
+        ],
+        "name": "Филейный нож"
+      },
+      {
+        "item_id": 11306,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/bc3f197fd37c0f92f0f253f578a1d266.png",
+        "attr": 1,
+        "level": 3,
+        "labels": [
+          49,
+          169,
+          25,
+          26,
+          54
+        ],
+        "name": "Меч небесного всадника"
+      },
+      {
+        "item_id": 11401,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/cfda75195bd9c341e314a56e976d532f.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          149,
+          53,
+          56
+        ],
+        "name": "Меч Фавония"
+      },
+      {
+        "item_id": 11402,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/e72bdcaaeb4b0a1ea13cfb76c88aa4cb.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          24,
+          59
+        ],
+        "name": "Меч-флейта"
+      },
+      {
+        "item_id": 11403,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/8d40dcb0e8e25ad6c5940095fa6984ab.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          150,
+          28,
+          27,
+          57
+        ],
+        "name": "Церемониальный меч"
+      },
+      {
+        "item_id": 11404,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/2b92d8da7beff401b00d680b74a7ed56.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          149,
+          53,
+          55,
+          56,
+          57,
+          149
+        ],
+        "name": "Меч аристократов"
+      },
+      {
+        "item_id": 11405,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/85dbd526e5a6d0f20af4d0253be63ac0.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          25,
+          58
+        ],
+        "name": "Драконий рык"
+      },
+      {
+        "item_id": 11406,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/d859d175bb85b6add3dc3df1fb8abc5a.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          25,
+          26,
+          54
+        ],
+        "name": "Прототип: Злоба"
+      },
+      {
+        "item_id": 11407,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/d6627a35dc10a7c7f9d5db832e271cce.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          49,
+          169,
+          47
+        ],
+        "name": "Стальное жало"
+      },
+      {
+        "item_id": 11408,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/19ed42f8a9b6de92e7aaef93479dae54.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          25,
+          56
+        ],
+        "name": "Черногорский длинный меч"
+      },
+      {
+        "item_id": 11409,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0d45932d85272f2efe3fb18418f159d0.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          24,
+          59
+        ],
+        "name": "Чёрный меч"
+      },
+      {
+        "item_id": 11412,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/58882f57dd30072cbc3f84371d543f06.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          24,
+          58
+        ],
+        "name": "Меч нисхождения"
+      },
+      {
+        "item_id": 11413,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/685c320aa78fc0c2e29f2e445393949a.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          25,
+          26,
+          54,
+          149,
+          53
+        ],
+        "name": "Осквернённое желание"
+      },
+      {
+        "item_id": 11414,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/1aa93cbdddb0444e0eff47b3f84dc5d9.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          215,
+          209
+        ],
+        "name": "Амэнома Кагэути"
+      },
+      {
+        "item_id": 11415,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/8c150d11be0738ee0188f6f5a2a56f86.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          150,
+          28,
+          27,
+          53,
+          55,
+          56,
+          57,
+          149
+        ],
+        "name": "Киноварное веретено"
+      },
+      {
+        "item_id": 11416,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/d0bc1a9d160a598e7cfe669f71402662.png",
+        "attr": 1,
+        "level": 4,
+        "labels": [
+          344,
+          229
+        ],
+        "name": "Кагоцурубэ Иссин"
+      },
+      {
+        "item_id": 12501,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/e53f3ec6e717e1430f991aedf5a33e0a.png",
+        "attr": 11,
+        "level": 5,
+        "labels": [
+          24,
+          59
+        ],
+        "name": "Небесное величие"
+      },
+      {
+        "item_id": 12502,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/45c64eb0f4dfffe24ab9e993616f02c6.png",
+        "attr": 11,
+        "level": 5,
+        "labels": [
+          150,
+          28,
+          27,
+          57
+        ],
+        "name": "Волчья погибель"
+      },
+      {
+        "item_id": 12504,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0ba71f650c9ae79f9f652ae7d6f9df86.png",
+        "attr": 11,
+        "level": 5,
+        "labels": [
+          58,
+          26
+        ],
+        "name": "Некованый"
+      },
+      {
+        "item_id": 12101,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/b1e284917f1ca8330ba929ef8f116aba.png",
+        "attr": 11,
+        "level": 1,
+        "labels": [
+          24,
+          59
+        ],
+        "name": "Двуручный меч богатыря"
+      },
+      {
+        "item_id": 12201,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/165dd007459fa4897a6ddeefe3993e6a.png",
+        "attr": 11,
+        "level": 2,
+        "labels": [
+          24,
+          59
+        ],
+        "name": "Лучший друг наёмника"
+      },
+      {
+        "item_id": 12301,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f7299d46b25b942d3ff3de4b01d3543a.png",
+        "attr": 11,
+        "level": 3,
+        "labels": [
+          149,
+          53,
+          47
+        ],
+        "name": "Металлическая тень"
+      },
+      {
+        "item_id": 12302,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/533baca38d78bed9a7334ebd15eb972e.png",
+        "attr": 11,
+        "level": 3,
+        "labels": [
+          24,
+          56
+        ],
+        "name": "Меч драконьей крови"
+      },
+      {
+        "item_id": 12303,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/14ff7311040e5d563ef75b28e229a7ae.png",
+        "attr": 11,
+        "level": 3,
+        "labels": [
+          150,
+          28,
+          27,
+          59
+        ],
+        "name": "Меч из белого железа"
+      },
+      {
+        "item_id": 12305,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7c806b2d328c89e3f7c6d70b01214af7.png",
+        "attr": 11,
+        "level": 3,
+        "labels": [
+          53,
+          55,
+          56,
+          57,
+          149,
+          26
+        ],
+        "name": "Дубина переговоров"
+      },
+      {
+        "item_id": 12306,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/8b59cc85afa53362080a7682e0b2284c.png",
+        "attr": 11,
+        "level": 3,
+        "labels": [
+          49,
+          169,
+          58
+        ],
+        "name": "Большой меч небесного всадника"
+      },
+      {
+        "item_id": 12401,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7646388f158d62d56f368631a37427c3.png",
+        "attr": 11,
+        "level": 4,
+        "labels": [
+          150,
+          28,
+          27,
+          25,
+          26,
+          54
+        ],
+        "name": "Двуручный меч Фавония"
+      },
+      {
+        "item_id": 12402,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/d7f9ca521e414f63dfe24876b91cc139.png",
+        "attr": 11,
+        "level": 4,
+        "labels": [
+          149,
+          53,
+          57
+        ],
+        "name": "Меч-колокол"
+      },
+      {
+        "item_id": 12403,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/b79312ddc86e05133b8a8d984f9931e1.png",
+        "attr": 11,
+        "level": 4,
+        "labels": [
+          24,
+          56
+        ],
+        "name": "Церемониальный двуручный меч"
+      },
+      {
+        "item_id": 12404,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/6c961ad33f44bd77fcab7c11a2f34f93.png",
+        "attr": 11,
+        "level": 4,
+        "labels": [
+          150,
+          28,
+          27,
+          59
+        ],
+        "name": "Королевский двуручный меч"
+      },
+      {
+        "item_id": 12405,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/de1e307e1104fbf7c8f7a7ef5cb143e1.png",
+        "attr": 11,
+        "level": 4,
+        "labels": [
+          57,
+          26
+        ],
+        "name": "Дождерез"
+      },
+      {
+        "item_id": 12406,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0365a23ab21b087a788d0d41c37bb049.png",
+        "attr": 11,
+        "level": 4,
+        "labels": [
+          53,
+          55,
+          56,
+          57,
+          149,
+          49,
+          169
+        ],
+        "name": "Прототип: Архаичный"
+      },
+      {
+        "item_id": 12407,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/b014e2aa23e856e0cf3f802584b26862.png",
+        "attr": 11,
+        "level": 4,
+        "labels": [
+          58,
+          25
+        ],
+        "name": "Белая тень"
+      },
+      {
+        "item_id": 12408,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/794c87023c6bb414a9a1ba03d52d0297.png",
+        "attr": 11,
+        "level": 4,
+        "labels": [
+          25,
+          26,
+          54,
+          26
+        ],
+        "name": "Черногорская бритва"
+      },
+      {
+        "item_id": 12409,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/8add3ad74e3838695ee23cacbe99e776.png",
+        "attr": 11,
+        "level": 4,
+        "labels": [
+          49,
+          169,
+          47
+        ],
+        "name": "Меч драконьей кости"
+      },
+      {
+        "item_id": 12410,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c6387d2f9dfb648e5ec1ad5a63837761.png",
+        "attr": 11,
+        "level": 4,
+        "labels": [
+          25,
+          56
+        ],
+        "name": "Каменный меч"
+      },
+      {
+        "item_id": 12411,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/15bb71d26fd594136aea9157303ab019.png",
+        "attr": 11,
+        "level": 4,
+        "labels": [
+          149,
+          53,
+          59
+        ],
+        "name": "Заснеженное звёздное серебро"
+      },
+      {
+        "item_id": 12412,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/d6a5ab503c052d5c0814a39417cc2fee.png",
+        "attr": 11,
+        "level": 4,
+        "labels": [
+          49,
+          169,
+          59
+        ],
+        "name": "Благодатный владыка вод"
+      },
+      {
+        "item_id": 12414,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f1518eb4ebfa7cc60ff113f37e7dfa24.png",
+        "attr": 11,
+        "level": 4,
+        "labels": [
+          215,
+          209
+        ],
+        "name": "Кацурагикири Нагамаса"
+      },
+      {
+        "item_id": 12416,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/3b3d34b3ebc2dc1f5bf989d663d42ec6.png",
+        "attr": 11,
+        "level": 4,
+        "labels": [
+          265,
+          209
+        ],
+        "name": "Акуомару"
+      },
+      {
+        "item_id": 13502,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/32df7904999ca5913e0501847a6f57b0.png",
+        "attr": 13,
+        "level": 5,
+        "labels": [
+          150,
+          28,
+          27,
+          57
+        ],
+        "name": "Небесная ось"
+      },
+      {
+        "item_id": 13101,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/ca0ea04c05d8994f0b7e836012e38563.png",
+        "attr": 13,
+        "level": 1,
+        "labels": [
+          150,
+          28,
+          27,
+          57
+        ],
+        "name": "Копьё новичка"
+      },
+      {
+        "item_id": 13201,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/d235cf9e396a50d8f673a7caf2f8d718.png",
+        "attr": 13,
+        "level": 2,
+        "labels": [
+          150,
+          28,
+          27,
+          57
+        ],
+        "name": "Железный наконечник"
+      },
+      {
+        "item_id": 13301,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/d9d2b979b41b3a522f622d70787fe2e1.png",
+        "attr": 13,
+        "level": 3,
+        "labels": [
+          25,
+          26,
+          54
+        ],
+        "name": "Белая кисть"
+      },
+      {
+        "item_id": 13302,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/22ad0b31bd68659f1a160dbca09eb817.png",
+        "attr": 13,
+        "level": 3,
+        "labels": [
+          47,
+          26
+        ],
+        "name": "Алебарда Миллелита"
+      },
+      {
+        "item_id": 13303,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/badaa063427a6e3f39d9c031b3dddc24.png",
+        "attr": 13,
+        "level": 3,
+        "labels": [
+          49,
+          169,
+          56
+        ],
+        "name": "Чёрная кисть"
+      },
+      {
+        "item_id": 13401,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/cf0f39f3f9fddd9fdcafe921ca8cff1a.png",
+        "attr": 13,
+        "level": 4,
+        "labels": [
+          57,
+          26
+        ],
+        "name": "Гроза драконов"
+      },
+      {
+        "item_id": 13402,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/e9f8f53de5554bd8ed06e5783aeee3c9.png",
+        "attr": 13,
+        "level": 4,
+        "labels": [
+          53,
+          55,
+          56,
+          57,
+          149,
+          49,
+          169
+        ],
+        "name": "Прототип: Звёздный блеск"
+      },
+      {
+        "item_id": 13403,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/b96753e95648a2ddf2ece0cdcd12b758.png",
+        "attr": 13,
+        "level": 4,
+        "labels": [
+          58,
+          25
+        ],
+        "name": "Пика полумесяца"
+      },
+      {
+        "item_id": 13404,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/4bfccf3b0a988ed4c816889be71a7a88.png",
+        "attr": 13,
+        "level": 4,
+        "labels": [
+          25,
+          26,
+          54
+        ],
+        "name": "Черногорская пика"
+      },
+      {
+        "item_id": 13405,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/e28812a4dbe5207d8d88c68a53212692.png",
+        "attr": 13,
+        "level": 4,
+        "labels": [
+          24,
+          47
+        ],
+        "name": "Смертельный бой"
+      },
+      {
+        "item_id": 13406,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/1117bae36b42e7ace47a411cb4b04ca1.png",
+        "attr": 13,
+        "level": 4,
+        "labels": [
+          49,
+          169,
+          56
+        ],
+        "name": "Каменное копьё"
+      },
+      {
+        "item_id": 13407,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7db45b7a84bb80468aaf0f5f430e9bdc.png",
+        "attr": 13,
+        "level": 4,
+        "labels": [
+          150,
+          28,
+          27,
+          59
+        ],
+        "name": "Копьё Фавония"
+      },
+      {
+        "item_id": 13408,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/212da9569426960f5b0dedba9b0d64a2.png",
+        "attr": 13,
+        "level": 4,
+        "labels": [
+          25,
+          26,
+          54
+        ],
+        "name": "Королевское копьё"
+      },
+      {
+        "item_id": 13409,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/2f8be9e904242c2b40f3d1899ffc0694.png",
+        "attr": 13,
+        "level": 4,
+        "labels": [
+          25,
+          26,
+          54
+        ],
+        "name": "Копьё Драконьего хребта"
+      },
+      {
+        "item_id": 13414,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/8fed2cc01d2f7f9b6c5cac8cf604bf2d.png",
+        "attr": 13,
+        "level": 4,
+        "labels": [
+          58,
+          215
+        ],
+        "name": "Крест-копьё Китаин"
+      },
+      {
+        "item_id": 13415,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/643071ffc7526446b48101f159ee0437.png",
+        "attr": 13,
+        "level": 4,
+        "labels": [
+          229,
+          215
+        ],
+        "name": "«Улов»"
+      },
+      {
+        "item_id": 13416,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/e4f85d4caee3fa61ba93bdad6f0dfdd7.png",
+        "attr": 13,
+        "level": 4,
+        "labels": [
+          209,
+          265
+        ],
+        "name": "Режущий волны плавник"
+      },
+      {
+        "item_id": 14501,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/d3f398d9ee417e931b1e273242dd8008.png",
+        "attr": 10,
+        "level": 5,
+        "labels": [
+          24,
+          56
+        ],
+        "name": "Небесный атлас"
+      },
+      {
+        "item_id": 14504,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7f1e579f9b6925daa69f67e328961033.png",
+        "attr": 10,
+        "level": 5,
+        "labels": [
+          53,
+          55,
+          56,
+          57,
+          149,
+          49,
+          169
+        ],
+        "name": "Память о пыли"
+      },
+      {
+        "item_id": 14101,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/852d232e46ddaacdfcb86b3f53413405.png",
+        "attr": 10,
+        "level": 1,
+        "labels": [
+          149,
+          53,
+          55,
+          56,
+          57,
+          149
+        ],
+        "name": "Записи ученика"
+      },
+      {
+        "item_id": 14201,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/5edb79d30c591ca6dbb84deeb4fa64d8.png",
+        "attr": 10,
+        "level": 2,
+        "labels": [
+          149,
+          53,
+          55,
+          56,
+          57,
+          149
+        ],
+        "name": "Карманный гримуар"
+      },
+      {
+        "item_id": 14301,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c264b71e825629badbe8da846287c009.png",
+        "attr": 10,
+        "level": 3,
+        "labels": [
+          149,
+          53,
+          59
+        ],
+        "name": "Руководство по магии"
+      },
+      {
+        "item_id": 14302,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/aff08755a2149ffb6c0fa7d1d189a222.png",
+        "attr": 10,
+        "level": 3,
+        "labels": [
+          24,
+          57
+        ],
+        "name": "Эпос о драконоборцах"
+      },
+      {
+        "item_id": 14303,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/209a83e1b8e802cfc56442cbe0148ef6.png",
+        "attr": 10,
+        "level": 3,
+        "labels": [
+          150,
+          28,
+          27,
+          53,
+          55,
+          56,
+          57,
+          149
+        ],
+        "name": "Потусторонняя история"
+      },
+      {
+        "item_id": 14304,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a46be1d86331fa7075c0a968505857d7.png",
+        "attr": 10,
+        "level": 3,
+        "labels": [
+          25,
+          58
+        ],
+        "name": "Изумрудный шар"
+      },
+      {
+        "item_id": 14305,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/7d0e2c53e717e887e0e60b1f56756d4d.png",
+        "attr": 10,
+        "level": 3,
+        "labels": [
+          25,
+          26,
+          54
+        ],
+        "name": "Парный нефрит"
+      },
+      {
+        "item_id": 14401,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/bb4ff947d3649e393b6ca2e117b072d6.png",
+        "attr": 10,
+        "level": 4,
+        "labels": [
+          149,
+          53,
+          57
+        ],
+        "name": "Кодекс Фавония"
+      },
+      {
+        "item_id": 14402,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/22d2b64c9fd0ab81ef934c8387f72d0c.png",
+        "attr": 10,
+        "level": 4,
+        "labels": [
+          53,
+          55,
+          56,
+          57,
+          149,
+          24
+        ],
+        "name": "Песнь странника"
+      },
+      {
+        "item_id": 14403,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/807ae55311a3a8382194a656e214e7b1.png",
+        "attr": 10,
+        "level": 4,
+        "labels": [
+          150,
+          28,
+          27,
+          58
+        ],
+        "name": "Церемониальные мемуары"
+      },
+      {
+        "item_id": 14404,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/3a69aaa3fe4b3e6d1269790434cfac8a.png",
+        "attr": 10,
+        "level": 4,
+        "labels": [
+          149,
+          53,
+          25,
+          26,
+          54
+        ],
+        "name": "Королевский гримуар"
+      },
+      {
+        "item_id": 14405,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/be0408e0e9d8356566c6cbad21b959d7.png",
+        "attr": 10,
+        "level": 4,
+        "labels": [
+          25,
+          47
+        ],
+        "name": "Солнечная жемчужина"
+      },
+      {
+        "item_id": 14406,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/00d58c6a9f08c487851206576c962551.png",
+        "attr": 10,
+        "level": 4,
+        "labels": [
+          26,
+          56
+        ],
+        "name": "Прототип: Янтарь"
+      },
+      {
+        "item_id": 14407,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/ad12d566dd0376457b622464e0744fe2.png",
+        "attr": 10,
+        "level": 4,
+        "labels": [
+          49,
+          169,
+          59
+        ],
+        "name": "Морской атлас"
+      },
+      {
+        "item_id": 14408,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/5ff68cdb787d782918193236c883ece3.png",
+        "attr": 10,
+        "level": 4,
+        "labels": [
+          25,
+          57
+        ],
+        "name": "Черногорский агат"
+      },
+      {
+        "item_id": 14409,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/811ff594eebe6cc05f12e02662803239.png",
+        "attr": 10,
+        "level": 4,
+        "labels": [
+          53,
+          55,
+          56,
+          57,
+          149,
+          26
+        ],
+        "name": "Око сознания"
+      },
+      {
+        "item_id": 14412,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/39a484f89b11fda2c68f29bcca43e26c.png",
+        "attr": 10,
+        "level": 4,
+        "labels": [
+          150,
+          28,
+          27,
+          47
+        ],
+        "name": "Плод вечной мерзлоты"
+      },
+      {
+        "item_id": 14413,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/6ec8e2657f0f24d5ed35ecbde8aa85db.png",
+        "attr": 10,
+        "level": 4,
+        "labels": [
+          53,
+          55,
+          56,
+          57,
+          149,
+          24
+        ],
+        "name": "Истории Додоко"
+      },
+      {
+        "item_id": 14414,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/29ef5797e2374e7f3a6996dc02c72d83.png",
+        "attr": 10,
+        "level": 4,
+        "labels": [
+          210,
+          57
+        ],
+        "name": "Кольцо Хакусин"
+      },
+      {
+        "item_id": 14415,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f9308f15888ca90af00ff12c5223c1a9.png",
+        "attr": 10,
+        "level": 4,
+        "labels": [
+          229,
+          265
+        ],
+        "name": "Око клятвы"
+      },
+      {
+        "item_id": 15501,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/504e181be5a8ba069b7249a3f7cf978d.png",
+        "attr": 12,
+        "level": 5,
+        "labels": [
+          56,
+          24
+        ],
+        "name": "Небесное крыло"
+      },
+      {
+        "item_id": 15101,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/c75ade4a5acb5eb9aaefbed318bf75ff.png",
+        "attr": 12,
+        "level": 1,
+        "labels": [
+          24,
+          58
+        ],
+        "name": "Лук охотника"
+      },
+      {
+        "item_id": 15201,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/53d5af406088693126f3bd691680c2eb.png",
+        "attr": 12,
+        "level": 2,
+        "labels": [
+          24,
+          58
+        ],
+        "name": "Лук опытного охотника"
+      },
+      {
+        "item_id": 15301,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/6dd8c709a161594e870fbdbfc5cb6d62.png",
+        "attr": 12,
+        "level": 3,
+        "labels": [
+          149,
+          53,
+          56
+        ],
+        "name": "Лук ворона"
+      },
+      {
+        "item_id": 15302,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/5f810f2e0af41ab46e69f96a44e7aa0e.png",
+        "attr": 12,
+        "level": 3,
+        "labels": [
+          59,
+          24
+        ],
+        "name": "Клятва стрелка"
+      },
+      {
+        "item_id": 15303,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/507fcc151bad5fcb3c9d61e436fd8839.png",
+        "attr": 12,
+        "level": 3,
+        "labels": [
+          150,
+          28,
+          27,
+          57
+        ],
+        "name": "Изогнутый лук"
+      },
+      {
+        "item_id": 15304,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/416221f265d0b711d55ad9146bfdb306.png",
+        "attr": 12,
+        "level": 3,
+        "labels": [
+          53,
+          55,
+          56,
+          57,
+          149,
+          25
+        ],
+        "name": "Рогатка"
+      },
+      {
+        "item_id": 15305,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0c145223319e7035b8bf17a43ad7eba2.png",
+        "attr": 12,
+        "level": 3,
+        "labels": [
+          58,
+          26
+        ],
+        "name": "Посыльный"
+      },
+      {
+        "item_id": 15401,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/f0b8edcc330cd9de1dcf97eccb20cbaf.png",
+        "attr": 12,
+        "level": 4,
+        "labels": [
+          150,
+          28,
+          27,
+          47
+        ],
+        "name": "Боевой лук Фавония"
+      },
+      {
+        "item_id": 15402,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/da3d5e7bbc112c4e1378de554a79c6c3.png",
+        "attr": 12,
+        "level": 4,
+        "labels": [
+          149,
+          53,
+          56
+        ],
+        "name": "Бесструнный"
+      },
+      {
+        "item_id": 15403,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/4a03625fdbc739dca379573871a4c2ca.png",
+        "attr": 12,
+        "level": 4,
+        "labels": [
+          59,
+          24
+        ],
+        "name": "Церемониальный лук"
+      },
+      {
+        "item_id": 15404,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/893ae1927bea9c1b2b495e46eae472f1.png",
+        "attr": 12,
+        "level": 4,
+        "labels": [
+          150,
+          28,
+          27,
+          57
+        ],
+        "name": "Королевский лук"
+      },
+      {
+        "item_id": 15405,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/6b682afb95373317a4a965b8974b5d08.png",
+        "attr": 12,
+        "level": 4,
+        "labels": [
+          53,
+          55,
+          56,
+          57,
+          149,
+          25
+        ],
+        "name": "Ржавый лук"
+      },
+      {
+        "item_id": 15406,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/80f9f492c45ffb4376aa4e8e496ab5d5.png",
+        "attr": 12,
+        "level": 4,
+        "labels": [
+          58,
+          26
+        ],
+        "name": "Прототип: Полумесяц"
+      },
+      {
+        "item_id": 15407,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/3f8226fbfd17d85c094e0796b3a92d8d.png",
+        "attr": 12,
+        "level": 4,
+        "labels": [
+          25,
+          26,
+          54,
+          49,
+          169
+        ],
+        "name": "Составной лук"
+      },
+      {
+        "item_id": 15408,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/a0ff01694b9dfd463fb074c8b4af1063.png",
+        "attr": 12,
+        "level": 4,
+        "labels": [
+          47,
+          25
+        ],
+        "name": "Черногорский боевой лук"
+      },
+      {
+        "item_id": 15409,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/4cb4be711bf4af4b3ca02a78cc72bd16.png",
+        "attr": 12,
+        "level": 4,
+        "labels": [
+          149,
+          53,
+          56
+        ],
+        "name": "Зелёный лук"
+      },
+      {
+        "item_id": 15411,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/ab3de086b1a1f6a42d1b5c8ae32f3b15.png",
+        "attr": 12,
+        "level": 4,
+        "labels": [
+          25,
+          57
+        ],
+        "name": "Гаснущие сумерки"
+      },
+      {
+        "item_id": 15412,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/425d13a6970fbdb3802304349b4f7de3.png",
+        "attr": 12,
+        "level": 4,
+        "labels": [
+          149,
+          53,
+          58
+        ],
+        "name": "Вальс Нирваны Ночи"
+      },
+      {
+        "item_id": 15413,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/fc907601decd02b1a63a68ebd62d00cf.png",
+        "attr": 12,
+        "level": 4,
+        "labels": [
+          24,
+          47
+        ],
+        "name": "Ода анемонии"
+      },
+      {
+        "item_id": 15414,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0d09981aa5c965eb05df4d6fa400d7bc.png",
+        "attr": 12,
+        "level": 4,
+        "labels": [
+          210,
+          56
+        ],
+        "name": "Хамаюми"
+      },
+      {
+        "item_id": 15415,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/95be77123f875f3393bc2a08f5eabe20.png",
+        "attr": 12,
+        "level": 4,
+        "labels": [
+          210,
+          56
+        ],
+        "name": "Хищник"
+      },
+      {
+        "item_id": 15416,
+        "icon": "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/25f04eaed84aaf525f6b10e868e7f835.png",
+        "attr": 12,
+        "level": 4,
+        "labels": [
+          210,
+          229
+        ],
+        "name": "Луна Моун"
+      }
+    ],
+    "attrs": {
+      "10": {
+        "icon_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/7ff77855cb938fb4329359e138ef8b15_8729755546675451225.png",
+        "icon_un_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/904110eab7b3d84fc82e309b8fb83bf4_2027139236237253077.png"
+      },
+      "11": {
+        "icon_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/f77c6a593ace23d0c35fc06b95160a52_4316434963220491731.png",
+        "icon_un_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/4e39c82d68b4b9425c2867cf8de47ae7_2220053092842565336.png"
+      },
+      "12": {
+        "icon_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/015f3c73d540753eee0596b1cb6fc3d5_3323630624629461465.png",
+        "icon_un_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/bd9ca38d35f16007ac4440ebcdf6c837_991052186790733289.png"
+      },
+      "13": {
+        "icon_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/6a39ece780abd43e78ac39536832d48b_8209227957927483768.png",
+        "icon_un_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/38dc9ea0f350499ced53963af31315fc_1560169253091504516.png"
+      },
+      "1": {
+        "icon_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/aa47c2e1bc720b7a7cfee9954e125647_3308249133964947502.png",
+        "icon_un_chosen": "https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/aab35891b9f277e0813435fe5c47c045_5294382189232539333.png"
+      }
+    },
+    "update_time": 1793758335
+  }
+}
